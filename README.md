@@ -20,6 +20,10 @@ which categories
 Is there a pattern with Projects Origin Country and Cancelations in percentage...) (Sahand)
 10. Success rate of projects with insufficient funding, should a project be continued even with insufficient funding (Jason)
 
+Questions that need to be reviewed
+1. Does more backers imply more success? Higher average of money donated by backers imply more success?
+
+
 9. We need more questions! and need to apply more complex analysis/ charts 
    
 Conclusion :-->
