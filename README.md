@@ -17,11 +17,10 @@ Questions--->
 8. Time: In which year Kickstarter had the most projects. Is the website growing in numbers of projects vs time? (Arrick) 
 
 
-9. We need more questions!
+9. We need more questions! and need to apply more complex analysis/ charts 
    
-
-
-
 Conclusion :-->
+What category? How much money to ask? How much time does it take trend on kickstarter? (Arrick) 
 
-What category? How much money to ask? How much time does it take trend on kickstarter?
+Read about Kickstarter in Wiki here:
+https://en.wikipedia.org/wiki/Kickstarter
