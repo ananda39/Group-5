@@ -18,10 +18,13 @@ which categories
 8. Time: In which year Kickstarter had the most projects. Is the website growing in numbers of projects vs time? (Arrick) 
 9. Canceled projects vs funds (Is there any case that they got the fund and canceled? (possibly because of  frauds or failed           prototype?)  trying to find a pattern in canceld projects. (looking at the categories: which categories got more cancelations. 
 Is there a pattern with Projects Origin Country and Cancelations in percentage...) (Sahand)
-10. Success rate of projects with insufficient funding, should a project be continued even with insufficient funding (Jason)
 
 Questions that need to be reviewed
 1. Does more backers imply more success? Higher average of money donated by backers imply more success?
+
+Invalid Questions
+10. Success rate of projects with insufficient funding, should a project be continued even with insufficient funding (Jason)
+Projects only start if the funding goal is met.
 
 
 9. We need more questions! and need to apply more complex analysis/ charts 
