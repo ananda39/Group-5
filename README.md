@@ -15,6 +15,7 @@ Questions--->
 6. Top ten categories that earn money much faster and more than they required. (Mahmud)
 7. Avg amount each backer pledged. (Sahand) 
 8. Time: In which year Kickstarter had the most projects. Is the website growing in numbers of projects vs time? (Arrick) 
+9. Canceled projects vs funds (Is there any case that they got the fund and canceled? (possibly because of  frauds or failed protype          prototype?) (Jason) trying to find a pattern in canceld projects. (looking at the categories which categories got more cancelations, is there a pattern with backers state...) 
 
 
 9. We need more questions! and need to apply more complex analysis/ charts 
