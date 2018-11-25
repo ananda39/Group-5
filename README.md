@@ -21,6 +21,7 @@ Is there a pattern with Projects Origin Country and Cancelations in percentage..
 
 Questions that need to be reviewed
 1. Does more backers imply more success? Higher average of money donated by backers imply more success?
+2. There are projects that were successful even though they did not make their fundraising goal.  The difference between the goal and pledge looks small.  Calculate this maximum deficit proportional, even though you did not make your goal, you might want to reconsider to keep on with project, use past values of deficits to consider to reconsider continuing.
 
 Invalid Questions
 10. Success rate of projects with insufficient funding, should a project be continued even with insufficient funding (Jason)
