@@ -33,6 +33,8 @@ Above 2 questions were under the assumption that state=success meant project was
 
 6. Does more backer imply more success? What if about higher average(total pledged/# of backers) implies anything about success?
 
+7. Calculate the proportion of goal met, look for any pattern?
+
 Invalid Questions
 10. Success rate of projects with insufficient funding, should a project be continued even with insufficient funding (Jason)
 Projects only start if the funding goal is met.
