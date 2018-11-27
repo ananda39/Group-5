@@ -35,6 +35,8 @@ Above 2 questions were under the assumption that state=success meant project was
 
 7. Calculate the proportion of goal met, look for any pattern?
 
+8. Does launching on a certain have better success rate?
+
 Invalid Questions
 10. Success rate of projects with insufficient funding, should a project be continued even with insufficient funding (Jason)
 Projects only start if the funding goal is met.
