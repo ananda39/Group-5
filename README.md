@@ -13,7 +13,7 @@ Questions--->
 5. How much time did it take to generate the money needed. (Mahmud) 
 6. Top ten categories that earn money much faster and more than they required. (Mahmud)
 7. Avg amount each backer pays by category. (Sahand) 
-8. Time: In which year Kickstarter had the most projects. Is the website growing in numbers of projects vs time? (Arrick) 
+8. Time: In which year Kickstarter had the most projects. Is the website growing in numbers of projects vs time? (Arrick - Completed) 
 9. Canceled projects vs funds (Is there any case that they got the fund and canceled? (possibly because of  frauds or failed           prototype?)  trying to find a pattern in canceld projects. (looking at the categories: which categories got more cancelations. 
 Is there a pattern with Projects Origin Country and Cancelations in percentage...) (Sahand)
 
@@ -22,7 +22,7 @@ Is there a pattern with Projects Origin Country and Cancelations in percentage..
 
 Above 2 questions were under the assumption that state=success meant project was successful.
 
-12. Does increase in days to reach goal imply more success in reaching goal? 
+12. Does increase in days to reach goal imply more success in reaching goal? (Arrick - Completed)
 
 13. Make a field for the percentage of the goal pledged. Make a field the time for fundraising, ie deadline date subtract launch date, ie,.  Graph and calculate correlation between these two fields.(jason)
 
@@ -32,7 +32,7 @@ Above 2 questions were under the assumption that state=success meant project was
 
 16. Calculate the proportion of goal met, look for any pattern?
 
-17. Does launching on a certain month have better success rate?
+17. Does launching on a certain month have better success rate? (Arrick-Completed)
 
 
 Invalid Questions
@@ -41,7 +41,7 @@ Projects only start if the funding goal is met.
 
    
 Conclusion :-->
-What category? How much money to ask? How much time does it take trend on kickstarter? (Arrick) 
+What category? How much money to ask? How much time does it take trend on kickstarter? (Arrick-Completed) 
 
 Read about Kickstarter in Wiki here:
 https://en.wikipedia.org/wiki/Kickstarter
