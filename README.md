@@ -49,3 +49,6 @@ What category? How much money to ask? How much time does it take trend on kickst
 
 Read about Kickstarter in Wiki here:
 https://en.wikipedia.org/wiki/Kickstarter
+
+yearFund = df[df['state']=='successful'].groupby(['launched_year'])['usd_goal_real','usd_pledged_real'].sum()
+goal_pledged_ratio = yearFund['usd_pledged_real'] / yearFund['usd_goal_real']
