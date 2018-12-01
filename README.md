@@ -52,3 +52,7 @@ https://en.wikipedia.org/wiki/Kickstarter
 
 yearFund = df[df['state']=='successful'].groupby(['launched_year'])['usd_goal_real','usd_pledged_real'].sum()
 goal_pledged_ratio = yearFund['usd_pledged_real'] / yearFund['usd_goal_real']
+
+
+sns.lmplot(x = 'log10_usd_goal_real', y = 'backers', col ='succeed', data = df, fit_reg = False)
+plt.show()
