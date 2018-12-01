@@ -41,6 +41,8 @@ Invalid Questions
 10. Success rate of projects with insufficient funding, should a project be continued even with insufficient funding (Jason)
 Projects only start if the funding goal is met.
 
+libraries
+from matplotlib.pyplot import show
    
 Conclusion :-->
 What category? How much money to ask? How much time does it take trend on kickstarter? (Arrick-Completed) 
