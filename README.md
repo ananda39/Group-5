@@ -1,6 +1,8 @@
 # Group-5
 Data Science Class (Updated Nov 28)
 
+Hey guys i think our goal of the project should be to make a model and predict the succes rate of a kickstarter project before it is released. 
+
 Questions--->
 1. What is the most popular project by category? (Completed) 
 
