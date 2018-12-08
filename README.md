@@ -1,4 +1,37 @@
 # Group-5
+Presentation: 
+1. intro of Kickstarter
+2. Some products that might be familiar and started on kickstarer 
+3. date set origin and cleaning date process (custom columns) success ration, pledge goal ratio, time duration
+4. Analysis 
+4.1 Country of Origin 
+4.2 success by category
+***** subcategory for popular ones and failed ones
+4.4 pledge ratio - backers average pledged amnt and number of backers vs pledge ration
+**** Overall average each backer paid by year for sucessful and unsucessful projects - and for just sucessful projects
+**** Average each backer paid vs goal corrolation
+**** what percentage of goal should project owerners ask from each backer (sucessful projects) 
+4.5 duration vs pledged ratio
+4.6 corrolation betw
+5. conclusion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Data Science Class (Updated Nov 28)
 
 Hey guys i think our goal of the project should be to make a model and predict the succes rate of a kickstarter project before it is released. 
