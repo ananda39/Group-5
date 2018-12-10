@@ -7,7 +7,7 @@ Presentation:
 4.1 Country of Origin 
 4.2 success by category
 
-*********** subcategory for popular ones and failed ones
+*********** subcategory for popular ones and failed ones  (Arrick-Completed)
 
 4.4 pledge ratio - backers average pledged amnt and number of backers vs pledge ration
 
