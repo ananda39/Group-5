@@ -6,11 +6,17 @@ Presentation:
 4. Analysis 
 4.1 Country of Origin 
 4.2 success by category
-***** subcategory for popular ones and failed ones
+
+*********** subcategory for popular ones and failed ones
+
 4.4 pledge ratio - backers average pledged amnt and number of backers vs pledge ration
-**** Overall average each backer paid by year for sucessful and unsucessful projects - and for just sucessful projects
-**** Average each backer paid vs goal corrolation
-**** what percentage of goal should project owerners ask from each backer (sucessful projects) 
+
+*********** Overall average each backer paid by year for sucessful and unsucessful projects - and for just sucessful projects
+
+*********** Average each backer paid vs goal corrolation
+
+*********** what percentage of goal should project owerners ask from each backer (sucessful projects) 
+
 4.5 duration vs pledged ratio
 4.6 corrolation betw
 5. conclusion
